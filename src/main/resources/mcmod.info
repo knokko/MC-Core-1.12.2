@@ -1,0 +1,16 @@
+[
+{
+  "modid": "knokkocore",
+  "name": "Knokko Core",
+  "description": "A mod that does nothing more than allowing some of my other mods to work.",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["knokko"],
+  "credits": "No real credits",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
